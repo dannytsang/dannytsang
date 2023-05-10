@@ -45,6 +45,7 @@ jobs:
           config_timezone: Europe/London
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.summary.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1496" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1213" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3593 Commits
+                            3596 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -576,6 +576,7 @@
                                 <g transform="translate(405, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -591,6 +592,34 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">dannytsang/homeassistant-config</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#533748e</div>
+                                        <div class="message">Added work laptop automations for monitor light bar.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0ed48c</div>
+                                        <div class="message">Added wired device to work laptop group.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d4e478</div>
+                                        <div class="message">Bump Scheduler integration version.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -690,256 +719,12 @@ Fix people not listed under people.entity_id like it is for direct notifications
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 943 commits in
-                                        <span class="repo">dannytsang/home-assistant.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">current</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b01ccd0</div>
-                                        <div class="message">Add IMAP services for post-processing events (#32107)
-
-* Add IMAP services for post-processing events
-
-* Phrasing and correct typo
-
-* Tiny tweaks
-
----------
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b24a4f6</div>
-                                        <div class="message">Areas: add floors to term definition (#32132)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f459cd</div>
-                                        <div class="message">Glossary: add term definition of floor (#32128)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa7d68b</div>
-                                        <div class="message">Glossary: add term label (#32130)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a497036</div>
-                                        <div class="message">Add label selector (#32129)
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c0e9b5</div>
-                                        <div class="message">Map dashboard update to reflect current software (#32126)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36f205e</div>
-                                        <div class="message">Add floor selector (#32124)
-
-* Add floor selector
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
-* Update source/_docs/blueprint/selectors.markdown
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d75ffe7</div>
-                                        <div class="message">Update ring quality scale to silver (#31849)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#439b5f4</div>
-                                        <div class="message">Add label template functions (#32122)
-
-* Add label template functions
-
-* tiny tweaks
-
----------
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82762d6</div>
-                                        <div class="message">Add floor template functions (#32121)
-
-* Add floor template functions
-
-* Add missing full stop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a12908</div>
-                                        <div class="message">Settings: add labels to areas and zones menu (#32060)
-
-* Settings: add labels to areas and zones menu
-
-* Fix typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af64824</div>
-                                        <div class="message">Add error sensor to Husqvarna Automower (#31856)
-
-* Add error sensor
-
-* Add restricted reason and some examples
-
----------
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f5436b</div>
-                                        <div class="message">Add more info to Motionblinds BLE integration (#32058)
-
-* Add extra information for Motionblinds Bluetooth motors
-
-* Fix Matter link
-
-* Fix commas and period
-
-* Fix spelling error
-
-* Remove seller info</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a225b51</div>
-                                        <div class="message">Add uptime sensor to Glances (#32050)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#558eb85</div>
-                                        <div class="message">Adding UniFi WLAN Password sensor (#32078)
-
-* Adding UniFi WLAN Password Sensor
-
-* Adding UniFi WLAN Password Sensor
-
-* Adding UniFi WLAN Password Sensor
-
-* Adding UniFi WLAN Password Sensor
-
-Co-authored-by: Robert Svensson &lt;Kane610@users.noreply.github.com&gt;
-
-* Adding UniFi WLAN Password Sensor
-
----------
-
-Co-authored-by: Robert Svensson &lt;Kane610@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77ceff6</div>
-                                        <div class="message">Adding UniFi WLAN regenerate password button (#32081)
-
-* Adding UniFi WLAN Change Password Button
-
-* Adding UniFi WLAN Change Password Button
-
-* Adding UniFi WLAN Change Password Button
-
-* Adding UniFi WLAN Regenerate Password Button
-
-* Adding UniFi WLAN Regenerate Password Button
-
-* Adding UniFi WLAN Regenerate Password Button
-
-* Adding UniFi WLAN Regenerate Password Button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0781b7a</div>
-                                        <div class="message">Fix Rova double header (#32097)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bc442d</div>
-                                        <div class="message">`conditional` &amp; `entity-filter`: add ability to filter through `entity_id` &amp; add `entity-filter` `conditional`'s conditions (#30561)
-
-* entity-filter: add ability to filter through entity_id value
-
-* Update to latest frontend PR edits
-
-* Update to new upstream
-
-* Fix English spelling
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: c0ffeeca7 &lt;38767475+c0ffeeca7@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a82d6c</div>
-                                        <div class="message">Add ´uid´ to ´imap´ event (#32082)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a509dc6</div>
-                                        <div class="message">Add eq3btsmart integration page (#31202)
-
-Co-authored-by: J. Nick Koston &lt;nick@koston.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2024, 01:24:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 01:25:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
